@@ -1,7 +1,7 @@
 # PWA to Play Store | Trusted Web Activity
 
-```
-git clone https://github.com/fireship-io/169-pwa-trusted-web-activity.git
+```bash
+git clone git@github.com:daliborgogic/pwa-twa.git
 ```
 
 Modify the values in `app/build.gradle` to point to your PWA. 
